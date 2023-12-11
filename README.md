@@ -1,5 +1,6 @@
 # Olá! Me chamo Daniel Costa👋🏾
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px><b> About</b>
 
 * Cursando Análise e desenvolvimento de sistemas 💻
 * Focado em desenvolvimento web Full stack 🌐
