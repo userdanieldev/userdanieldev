@@ -3,7 +3,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px><b> About</b>
 
 * Cursando Análise e desenvolvimento de sistemas 💻
-* Focado em desenvolvimento web Full stack 🌐
+* Focado em desenvolvimento web Front-end web development 🌐
 * Apaixoando por tecnologia e inovação 👨🏾‍💻
 
 ![Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=userdanieldev&show_icons=true&theme=dracula  )
